@@ -2,6 +2,7 @@
 
 Site de bicicletas desenvolvido no curso da **[Origamid](https://www.origamid.com/)**.
 
+![Capturar](https://user-images.githubusercontent.com/56393487/132967282-aad9e8cf-d925-400d-a246-2b2a9594f78c.PNG)
 ##   Tecnologias e ferramentas utilizadas
 
 -   **HTML5**
